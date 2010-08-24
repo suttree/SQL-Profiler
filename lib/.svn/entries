@@ -1,0 +1,52 @@
+8
+
+dir
+2295
+https://svn.devjavu.com/pmog/trunk/vendor/plugins/sql_profiler/lib
+https://svn.devjavu.com/pmog
+
+
+
+2008-01-02T17:35:11.509429Z
+2237
+duncan@suttree.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8deae08c-502d-0410-b95a-ac089504fbc2
+
+sql_profiler.rb
+file
+
+
+
+
+2008-01-02T14:51:27.000000Z
+d61d101297f96e21fd9321fce8446aba
+2008-01-02T17:18:57.915026Z
+2233
+duncan@suttree.com
+
+sql_profiler.html.erb
+file
+
+
+
+
+2008-01-02T17:34:30.000000Z
+e8870c853322251eb82e31fe807eef18
+2008-01-02T17:35:11.509429Z
+2237
+duncan@suttree.com
+

@@ -1,0 +1,40 @@
+8
+
+dir
+2295
+https://svn.devjavu.com/pmog/trunk/vendor/plugins/sql_profiler/generators/sql_profiler_migration/templates
+https://svn.devjavu.com/pmog
+
+
+
+2008-01-02T17:18:57.915026Z
+2233
+duncan@suttree.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8deae08c-502d-0410-b95a-ac089504fbc2
+
+migration.rb
+file
+
+
+
+
+2008-01-02T16:33:22.000000Z
+562989620740c4ba2ac6e4b17c400b99
+2008-01-02T17:18:57.915026Z
+2233
+duncan@suttree.com
+

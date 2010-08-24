@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pmog/!svn/ver/2233/trunk/vendor/plugins/sql_profiler/generators/sql_profiler_migration
+END
+sql_profiler_migration_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/pmog/!svn/ver/2233/trunk/vendor/plugins/sql_profiler/generators/sql_profiler_migration/sql_profiler_migration_generator.rb
+END
